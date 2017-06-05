@@ -36,7 +36,7 @@
 
         <activity android:name=".PlayActivity" />
         <activity android:name=".OptionActivity" />
-        <activity android:name=".ShareActivity" />
+
         <activity android:name=".ResultActivity"></activity>
 
         <service
